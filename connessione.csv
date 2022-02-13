@@ -1,0 +1,2 @@
+nome,descrizione,tipo,utente,password,host,ip,porta,database,url_estrazione_zip,percorso_destinazione
+mySqlLotto,mySqlLotto su raspberry pi 32 bit,mysql,gio@192.168.0.86,gio@mysql.local,192.168.0.211,192.168.0.211,3306,lotto,https://www.lottomatica.it/STORICO_ESTRAZIONI_LOTTO/storico.zip,C:\PROGETTI\testPythonLs
